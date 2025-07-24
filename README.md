@@ -1,4 +1,4 @@
-=======
+
 # Banking Application
 
 ## Features
@@ -16,6 +16,3 @@ Usage
 Choose operations from menu
 
 Follow on-screen prompts
-
-Enjoy banking!
->>>>>>> bff2633 (Add banking application)
