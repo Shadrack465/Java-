@@ -52,3 +52,4 @@ Interest Earned: 4920.76
 Java JDK 17 or newer
 
 Git (for cloning repository)
+<!-- Documentation consolidated from root -->
